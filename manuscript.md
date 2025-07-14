@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-14" />
   <meta name="citation_publication_date" content="2025-07-14" />
   <meta property="article:published_time" content="2025-07-14" />
-  <meta name="dc.modified" content="2025-07-14T12:35:48+00:00" />
-  <meta property="article:modified_time" content="2025-07-14T12:35:48+00:00" />
+  <meta name="dc.modified" content="2025-07-14T12:37:03+00:00" />
+  <meta property="article:modified_time" content="2025-07-14T12:37:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,13 +46,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://marcgarel.github.io/test_manubot/" />
   <meta name="citation_pdf_url" content="https://marcgarel.github.io/test_manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcgarel.github.io/test_manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/test_manubot/v/06a1ec5417a3abfef2f0869241b576cf81c3d92a/" />
-  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/test_manubot/v/06a1ec5417a3abfef2f0869241b576cf81c3d92a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/test_manubot/v/06a1ec5417a3abfef2f0869241b576cf81c3d92a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/test_manubot/v/8d4076b9b03698ed3dc339a279916cf39e466466/" />
+  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/test_manubot/v/8d4076b9b03698ed3dc339a279916cf39e466466/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/test_manubot/v/8d4076b9b03698ed3dc339a279916cf39e466466/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/marcgarel/test_manubot/raw/06a1ec5417a3abfef2f0869241b576cf81c3d92a/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/marcgarel/test_manubot/raw/06a1ec5417a3abfef2f0869241b576cf81c3d92a/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/marcgarel/test_manubot/raw/8d4076b9b03698ed3dc339a279916cf39e466466/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/marcgarel/test_manubot/raw/8d4076b9b03698ed3dc339a279916cf39e466466/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -73,9 +73,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://marcgarel.github.io/test_manubot/v/06a1ec5417a3abfef2f0869241b576cf81c3d92a/))
+([permalink](https://marcgarel.github.io/test_manubot/v/8d4076b9b03698ed3dc339a279916cf39e466466/))
 was automatically generated
-from [marcgarel/test_manubot@06a1ec5](https://github.com/marcgarel/test_manubot/tree/06a1ec5417a3abfef2f0869241b576cf81c3d92a)
+from [marcgarel/test_manubot@8d4076b](https://github.com/marcgarel/test_manubot/tree/8d4076b9b03698ed3dc339a279916cf39e466466)
 on July 14, 2025.
 </em></small>
 

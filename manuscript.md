@@ -8,7 +8,7 @@ keywords:
 lang: en-US
 date-meta: '2025-07-14'
 author-meta:
-- John Doe
+- Marc Garel
 - Jane Roe
 header-includes: |
   <!--
@@ -24,15 +24,15 @@ header-includes: |
   <meta name="dc.date" content="2025-07-14" />
   <meta name="citation_publication_date" content="2025-07-14" />
   <meta property="article:published_time" content="2025-07-14" />
-  <meta name="dc.modified" content="2025-07-14T11:55:38+00:00" />
-  <meta property="article:modified_time" content="2025-07-14T11:55:38+00:00" />
+  <meta name="dc.modified" content="2025-07-14T12:18:47+00:00" />
+  <meta property="article:modified_time" content="2025-07-14T12:18:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Marc Garel" />
   <meta name="citation_author_institution" content="Department of Something: University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
@@ -46,13 +46,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://marcgarel.github.io/test_manubot/" />
   <meta name="citation_pdf_url" content="https://marcgarel.github.io/test_manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcgarel.github.io/test_manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/test_manubot/v/89c76236ec7df3b8b56c6cbec387f7151a22a160/" />
-  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/test_manubot/v/89c76236ec7df3b8b56c6cbec387f7151a22a160/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/test_manubot/v/89c76236ec7df3b8b56c6cbec387f7151a22a160/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/test_manubot/v/e2e4bf3c5c6dcf2edb5ce6e98865901bbf844a34/" />
+  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/test_manubot/v/e2e4bf3c5c6dcf2edb5ce6e98865901bbf844a34/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/test_manubot/v/e2e4bf3c5c6dcf2edb5ce6e98865901bbf844a34/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/marcgarel/test_manubot/raw/89c76236ec7df3b8b56c6cbec387f7151a22a160/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/marcgarel/test_manubot/raw/89c76236ec7df3b8b56c6cbec387f7151a22a160/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/marcgarel/test_manubot/raw/e2e4bf3c5c6dcf2edb5ce6e98865901bbf844a34/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/marcgarel/test_manubot/raw/e2e4bf3c5c6dcf2edb5ce6e98865901bbf844a34/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -73,9 +73,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://marcgarel.github.io/test_manubot/v/89c76236ec7df3b8b56c6cbec387f7151a22a160/))
+([permalink](https://marcgarel.github.io/test_manubot/v/e2e4bf3c5c6dcf2edb5ce6e98865901bbf844a34/))
 was automatically generated
-from [marcgarel/test_manubot@89c7623](https://github.com/marcgarel/test_manubot/tree/89c76236ec7df3b8b56c6cbec387f7151a22a160)
+from [marcgarel/test_manubot@e2e4bf3](https://github.com/marcgarel/test_manubot/tree/e2e4bf3c5c6dcf2edb5ce6e98865901bbf844a34)
 on July 14, 2025.
 </em></small>
 
@@ -85,12 +85,12 @@ on July 14, 2025.
 
 
 
-+ **John Doe**
++ **Marc Garel**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [marcgarel](https://github.com/marcgarel)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}

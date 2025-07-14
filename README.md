@@ -84,8 +84,8 @@ When a commit to the `main` branch occurs (for example, when a pull request is m
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
 + **HTML manuscript** at [https://manubot.github.io/try-manubot/](https://github.com/marcgarel/test_manubot/blob/output/manuscript.html)
-+ **PDF manuscript** at https://manubot.github.io/try-manubot/manuscript.pdf
-
++ **PDF manuscript** at [https://manubot.github.io/try-manubot/manuscript.pdf
+](https://github.com/marcgarel/test_manubot/blob/output/manuscript.pdf)
 For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
 
 ## License

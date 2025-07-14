@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/marcgarel/test_manubot/tree/gh-pages) branch hosts the contents of this directory at <https://marcgarel.github.io/test_manubot/>.
-The permalink for this webpage version is <https://marcgarel.github.io/test_manubot/v/35547635f2446a0ca36751638c2b77d99d4060a6/>.
+The permalink for this webpage version is <https://marcgarel.github.io/test_manubot/v/187f198665c7f590fc00517ab07d7cde9cff3214/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://marcgarel.github.io/test_manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`35547635f2446a0ca36751638c2b77d99d4060a6`](https://github.com/marcgarel/test_manubot/commit/35547635f2446a0ca36751638c2b77d99d4060a6).
+[`187f198665c7f590fc00517ab07d7cde9cff3214`](https://github.com/marcgarel/test_manubot/commit/187f198665c7f590fc00517ab07d7cde9cff3214).

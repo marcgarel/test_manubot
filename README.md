@@ -83,7 +83,7 @@ If your pull request build fails, see the CI logs for the cause of failure and r
 When a commit to the `main` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/manubot/try-manubot/tree/gh-pages) and [`output`](https://github.com/manubot/try-manubot/tree/output) branches.
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
-+ **HTML manuscript** at https://manubot.github.io/try-manubot/
++ **HTML manuscript** at [https://manubot.github.io/try-manubot/](https://github.com/marcgarel/test_manubot/blob/output/manuscript.html)
 + **PDF manuscript** at https://manubot.github.io/try-manubot/manuscript.pdf
 
 For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
